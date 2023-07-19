@@ -12,7 +12,9 @@ const greeting = {
     "A Software engineer with two years of knowledge of software design, development, and testing. Utilizing my broad educational background in engineering with excellent analytical, technical, experience, and programming skills to build products and thrive as a software developer."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1xivTdSPaioXraPu1gKzKjaIO4NDkNB2E/view?usp=sharing",
+    "https://drive.google.com/file/d/1kQOlLLNn9Qj8CMgGifn1s8btQcXmn3LL/view?usp=sharing",
+  workresumeLink:
+    "https://drive.google.com/file/d/1detckV0_1O9mLyfQBwNN7ZWGRFgwXK7D/view?usp=sharing"
 };
 
 // Your Social Media Link

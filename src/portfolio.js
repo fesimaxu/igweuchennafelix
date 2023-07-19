@@ -9,10 +9,10 @@ const greeting = {
   username: "Igwe Uchenna Felix",
   title: "Hi all, I'm igweKodes",
   subTitle: emoji(
-    "A backend software engineer. I combine my experience as a software engineer and a problem solver to build solution driven applications."
+    "A Software engineer with two years of knowledge of software design, development, and testing. Utilizing my broad educational background in engineering with excellent analytical, technical, experience, and programming skills to build products and thrive as a software developer."
   ),
   resumeLink:
-    "",
+    "https://drive.google.com/file/d/1xivTdSPaioXraPu1gKzKjaIO4NDkNB2E/view?usp=sharing",
 };
 
 // Your Social Media Link
@@ -151,24 +151,16 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Node js", //Insert stack or technology you have experience in
-      // progressPercentage: "90%"  //Insert relative proficiency in percentage
+      Stack: "Backend", //Insert stack or technology you have experience in
+      progressPercentage: "90%"  //Insert relative proficiency in percentage
     },
     {
-      Stack: "Solidity", //Insert stack or technology you have experience in
-      // progressPercentage: "70%"  //Insert relative proficiency in percentage
+      Stack: "Frontend", //Insert stack or technology you have experience in
+      progressPercentage: "60%"  //Insert relative proficiency in percentage
     },
     {
       Stack: "Data Science",
-      // progressPercentage: "60%"
-    },
-    {
-      Stack: "Java",
-      // progressPercentage: "50%"
-    },
-    {
-      Stack: "React",
-      // progressPercentage: "50%"
+      progressPercentage: "60%"
     }
   ],
 };
@@ -243,7 +235,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_PERSONAL_WEBSITE_TOKEN,
-  githubUserName: "fesimaxu", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "@fesimaxu", // Change to your github username to view your profile in Contact Section.
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to false
 };
 

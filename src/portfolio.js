@@ -9,12 +9,10 @@ const greeting = {
   username: "Igwe Uchenna Felix",
   title: "Hi all, I'm igweKodes",
   subTitle: emoji(
-    "A Software engineer with two years of knowledge of software design, development, and testing. Utilizing my broad educational background in engineering with excellent analytical, technical, experience, and programming skills to build products and thrive as a software developer."
+    "A software engineer with more than three years of experience in the design, development, and testing of software. To build products and succeed as a software engineer, I am combining my extensive engineering degree with great analytical, technical, experience, and programming skills."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1kQOlLLNn9Qj8CMgGifn1s8btQcXmn3LL/view?usp=sharing",
-  workresumeLink:
-    "https://drive.google.com/file/d/1detckV0_1O9mLyfQBwNN7ZWGRFgwXK7D/view?usp=sharing"
+  // resumeLink:
+  //   "https://drive.google.com/file/d/1kQOlLLNn9Qj8CMgGifn1s8btQcXmn3LL/view?usp=sharing"
 };
 
 // Your Social Media Link
@@ -154,7 +152,7 @@ const techStack = {
   experience: [
     {
       Stack: "Backend", //Insert stack or technology you have experience in
-      progressPercentage: "90%"  //Insert relative proficiency in percentage
+      progressPercentage: "95%"  //Insert relative proficiency in percentage
     },
     {
       Stack: "Frontend", //Insert stack or technology you have experience in
@@ -162,7 +160,7 @@ const techStack = {
     },
     {
       Stack: "Data Science",
-      progressPercentage: "60%"
+      progressPercentage: "70%"
     }
   ],
 };
@@ -302,6 +300,19 @@ const achievementSection = {
           name: "Certification Link",
           url:
             "https://drive.google.com/file/d/1Y-ZNlzQ8ZkeugcwoDpeGQQKE8bV9Q8Qp/view?usp=drive_link",
+        },
+      ],
+    },
+    {
+      title: "Scrum Fundamentals Certified",
+      subtitle:
+        "The Scrum Fundamentals Certified (SFC) is a certification program that provides a basic understanding of Scrum, an agile framework for managing and delivering projects.",
+      image: require("./assets/images/Scrum Fundamentals Certified.jpg"),
+      footerLink: [
+        {
+          name: "Certification Link",
+          url:
+            "https://drive.google.com/file/d/1zjB5jogAYKVn86OT8qzlK3a08sIhUnRu/view?usp=sharing",
         },
       ],
     },

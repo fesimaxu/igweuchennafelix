@@ -11,8 +11,8 @@ const greeting = {
   subTitle: emoji(
     "A software engineer with more than three years of experience in the design, development, and testing of software. To build products and succeed as a software engineer, I am combining my extensive engineering degree with great analytical, technical, experience, and programming skills."
   ),
-  // resumeLink:
-  //   "https://drive.google.com/file/d/1kQOlLLNn9Qj8CMgGifn1s8btQcXmn3LL/view?usp=sharing"
+  resumeLink:
+    "https://drive.google.com/file/d/1ULQApBUVgKOeEqnFJgzvnIqHdtcdX36o/view?usp=sharing"
 };
 
 // Your Social Media Link
